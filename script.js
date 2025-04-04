@@ -21,52 +21,52 @@ let index = 0;
 
 const songDataBase = [
   {
-    songSrc: "./music/music1.mp3",
+    songSrc: "./music1.mp3",
     title: "Nổi gió",
     artist: "Nai My",
-    imgSrc: "./img/music1.jpg",
+    imgSrc: "./music1.jpg",
   },
   {
-    songSrc: "./music/music2.mp3",
+    songSrc: "./music2.mp3",
     title: "Mưa cuốn người xa",
     artist: "Khiêm",
-    imgSrc: "./img/music2.jpg",
+    imgSrc: "./music2.jpg",
   },
   {
-    songSrc: "./music/music3.mp3",
+    songSrc: "./music3.mp3",
     title: "Mùa mưa ngâu nằm cạnh",
     artist: "Khang",
-    imgSrc: "./img/music3.jpg",
+    imgSrc: "./music3.jpg",
   },
   {
-    songSrc: "./music/music4.mp3",
+    songSrc: "./music4.mp3",
     title: "Tôi chỉ muốn nói",
     artist: "toai yêu emmm",
-    imgSrc: "./img/music4.jpg",
+    imgSrc: "./music4.jpg",
   },
   {
-    songSrc: "./music/music5.mp3",
+    songSrc: "./music5.mp3",
     title: "Anh sẽ ôm em đến hết mùa mưa rơi",
     artist: "Bồ em (chắc vậy)",
-    imgSrc: "./img/music5.jpg",
+    imgSrc: "./music5.jpg",
   },
   {
-    songSrc: "./music/music6.mp3",
+    songSrc: "./music6.mp3",
     title: "Xuân thì",
     artist: "Hết tên đặt r",
-    imgSrc: "./img/music6.jpg",
+    imgSrc: "./music6.jpg",
   },
   {
-    songSrc: "./music/music7.mp3",
+    songSrc: "./music7.mp3",
     title: "Ngủ thôi, trời tắt nắng rồi",
     artist: "Nhớ ngủ sớm nghe",
-    imgSrc: "./img/music7.jpg",
+    imgSrc: "./music7.jpg",
   },
   {
-    songSrc: "./music/music8.mp3",
+    songSrc: "./music8.mp3",
     title: "Chuyện những người yêu xa",
     artist: "Chúc em valentine vui vẻ nha",
-    imgSrc: "./img/music8.jpg",
+    imgSrc: "./music8.jpg",
   },
   
 ];
